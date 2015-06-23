@@ -117,5 +117,5 @@ dual := new Dual
 *]::dual.comboKey({F22: "Pause"})
 
 *e::dual.comboKey({F22: "Escape"})
-*`::dual.comboKey("Escape", {F22: "``"})
+*`::dual.comboKey({F22: "Escape"})
 #If
